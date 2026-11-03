@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Train and evaluate a PyTorch softmax-regression baseline on MNIST.
 
 Run from this directory in a terminal with:
